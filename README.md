@@ -8,4 +8,4 @@ Simply change the path to the folder of the pdfs and the path, where the output 
 
 I used Python Version 3.10 on Windows. For the PDF -> JPG Conversion Poppler is required. On Windows you can get it from here https://github.com/oschwartz10612/poppler-windows and you have to put it as Environment Variable
 
-Here is also a good guide to follow if you want have a NVIDIA GPU that can use CUDA for faster compilation https://rentry.co/lazyXel#Local%20Processing%20Method
+Here is also a good guide to follow if you have a NVIDIA GPU that can use CUDA for faster compilation https://rentry.co/lazyXel#Local%20Processing%20Method
